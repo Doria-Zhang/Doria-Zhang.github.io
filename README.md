@@ -1,4 +1,23 @@
 # Doria-Zhang.github.io
 
-I am a senior UG in SUSTech studying oceanography now.
-Contact me: zhangdoria@outlook.com
+### Profile
+- PhD Student
+- 0 paper, .. manuscript(s)
+
+### Education background
+- 2017 - 2021 
+- Oceanography, Southern University of Science and Technology, Bachelor
+- 2021 - present
+- Atmosphheric Science, Tsinghua University
+
+### Skills
+- python, MATLAB, markdown, latex
+- studying javascript, html, css
+
+### Language
+- Chinese
+- English
+- Japanese (preparing for JLPT...)
+
+### Contact me: 
+zhangdorithon@gmail.com
