@@ -6,9 +6,9 @@
 
 ### Education background
 - 2017 - 2021 
-- Oceanography, Southern University of Science and Technology, Bachelor
+ Oceanography, Southern University of Science and Technology, Bachelor
 - 2021 - present
-- Atmospheric Science,
+ Atmospheric Science,
 
 ### Skills
 - python, MATLAB, markdown, latex
