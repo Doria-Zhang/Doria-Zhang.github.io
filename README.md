@@ -8,7 +8,7 @@
 - 2017 - 2021 
 - Oceanography, Southern University of Science and Technology, Bachelor
 - 2021 - present
-- Atmosphheric Science, Tsinghua University
+- Atmospheric Science,
 
 ### Skills
 - python, MATLAB, markdown, latex
